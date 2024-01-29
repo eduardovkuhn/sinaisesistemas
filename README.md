@@ -16,24 +16,14 @@ Inscreva-se no canal e embarque nesta jornada! 🚀
 
 Youtube: https://youtu.be/Jhxz45Pk910
 
-############### Livros recomendados #######################
-
-Lathi (Amazon): https://amzn.to/3HboSQs
-
-Oppenheim (Amazon): https://amzn.to/3HaPukx
-
-############### Informações de contato ####################
-
-Eduardo Vinícius Kuhn
-
-Professor do Magistério Superior
-
-Departamento de Engenharia Eletrônica
-
-Universidade Tecnológica Federal do Paraná, Campus Toledo
-
-CV Lattes: http://lattes.cnpq.br/2456654064380180
-
-E-mail: kuhn@utfpr.edu.br
-
+############### Livros recomendados #######################\
+Lathi (Amazon): https://amzn.to/3HboSQs\
+Oppenheim (Amazon): https://amzn.to/3HaPukx\
+############### Informações de contato ####################\
+Eduardo Vinícius Kuhn\
+Professor do Magistério Superior\
+Departamento de Engenharia Eletrônica\
+Universidade Tecnológica Federal do Paraná, Campus Toledo\
+CV Lattes: (http://lattes.cnpq.br/2456654064380180)\
+E-mail: (mailto:kuhn@utfpr.edu.br)\
 ############################################################
