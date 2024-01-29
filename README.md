@@ -25,5 +25,5 @@ Professor do Magistério Superior
 Departamento de Engenharia Eletrônica  
 Universidade Tecnológica Federal do Paraná, Campus Toledo  
 CV Lattes: http://lattes.cnpq.br/2456654064380180  
-E-mail: kuhn@utfpr.edu.br
+E-mail: kuhn@utfpr.edu.br  
 ############################################################
